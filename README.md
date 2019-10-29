@@ -5,4 +5,4 @@ Admin web
 
 Client app
 
-![ClientSideWithDesign](https://user-images.githubusercontent.com/44566371/67812054-cf3e6a00-faa6-11e9-9c94-4df58e15d86f.gif)
+![ClientSideWithDesign](https://user-images.githubusercontent.com/44566371/67812206-3c51ff80-faa7-11e9-81b8-90fe14cb17c9.gif)
